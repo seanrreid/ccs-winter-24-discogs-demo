@@ -1,0 +1,359 @@
+{
+    "name": "The Prodigy",
+    "id": 66852,
+    "resource_url": "https://api.discogs.com/artists/66852",
+    "uri": "https://www.discogs.com/artist/66852-The-Prodigy",
+    "releases_url": "https://api.discogs.com/artists/66852/releases",
+    "images": [
+        {
+            "type": "primary",
+            "uri": "",
+            "resource_url": "",
+            "uri150": "",
+            "width": 600,
+            "height": 394
+        },
+        {
+            "type": "secondary",
+            "uri": "",
+            "resource_url": "",
+            "uri150": "",
+            "width": 600,
+            "height": 467
+        },
+        {
+            "type": "secondary",
+            "uri": "",
+            "resource_url": "",
+            "uri150": "",
+            "width": 600,
+            "height": 596
+        },
+        {
+            "type": "secondary",
+            "uri": "",
+            "resource_url": "",
+            "uri150": "",
+            "width": 600,
+            "height": 573
+        },
+        {
+            "type": "secondary",
+            "uri": "",
+            "resource_url": "",
+            "uri150": "",
+            "width": 600,
+            "height": 460
+        },
+        {
+            "type": "secondary",
+            "uri": "",
+            "resource_url": "",
+            "uri150": "",
+            "width": 600,
+            "height": 502
+        },
+        {
+            "type": "secondary",
+            "uri": "",
+            "resource_url": "",
+            "uri150": "",
+            "width": 600,
+            "height": 582
+        },
+        {
+            "type": "secondary",
+            "uri": "",
+            "resource_url": "",
+            "uri150": "",
+            "width": 514,
+            "height": 548
+        },
+        {
+            "type": "secondary",
+            "uri": "",
+            "resource_url": "",
+            "uri150": "",
+            "width": 600,
+            "height": 450
+        },
+        {
+            "type": "secondary",
+            "uri": "",
+            "resource_url": "",
+            "uri150": "",
+            "width": 375,
+            "height": 446
+        },
+        {
+            "type": "secondary",
+            "uri": "",
+            "resource_url": "",
+            "uri150": "",
+            "width": 506,
+            "height": 379
+        },
+        {
+            "type": "secondary",
+            "uri": "",
+            "resource_url": "",
+            "uri150": "",
+            "width": 600,
+            "height": 600
+        },
+        {
+            "type": "secondary",
+            "uri": "",
+            "resource_url": "",
+            "uri150": "",
+            "width": 575,
+            "height": 435
+        },
+        {
+            "type": "secondary",
+            "uri": "",
+            "resource_url": "",
+            "uri150": "",
+            "width": 494,
+            "height": 348
+        },
+        {
+            "type": "secondary",
+            "uri": "",
+            "resource_url": "",
+            "uri150": "",
+            "width": 600,
+            "height": 337
+        },
+        {
+            "type": "secondary",
+            "uri": "",
+            "resource_url": "",
+            "uri150": "",
+            "width": 500,
+            "height": 550
+        },
+        {
+            "type": "secondary",
+            "uri": "",
+            "resource_url": "",
+            "uri150": "",
+            "width": 600,
+            "height": 902
+        },
+        {
+            "type": "secondary",
+            "uri": "",
+            "resource_url": "",
+            "uri150": "",
+            "width": 288,
+            "height": 275
+        },
+        {
+            "type": "secondary",
+            "uri": "",
+            "resource_url": "",
+            "uri150": "",
+            "width": 600,
+            "height": 624
+        },
+        {
+            "type": "secondary",
+            "uri": "",
+            "resource_url": "",
+            "uri150": "",
+            "width": 500,
+            "height": 446
+        },
+        {
+            "type": "secondary",
+            "uri": "",
+            "resource_url": "",
+            "uri150": "",
+            "width": 600,
+            "height": 849
+        },
+        {
+            "type": "secondary",
+            "uri": "",
+            "resource_url": "",
+            "uri150": "",
+            "width": 465,
+            "height": 300
+        },
+        {
+            "type": "secondary",
+            "uri": "",
+            "resource_url": "",
+            "uri150": "",
+            "width": 600,
+            "height": 337
+        },
+        {
+            "type": "secondary",
+            "uri": "",
+            "resource_url": "",
+            "uri150": "",
+            "width": 600,
+            "height": 600
+        },
+        {
+            "type": "secondary",
+            "uri": "",
+            "resource_url": "",
+            "uri150": "",
+            "width": 600,
+            "height": 337
+        },
+        {
+            "type": "secondary",
+            "uri": "",
+            "resource_url": "",
+            "uri150": "",
+            "width": 600,
+            "height": 399
+        },
+        {
+            "type": "secondary",
+            "uri": "",
+            "resource_url": "",
+            "uri150": "",
+            "width": 600,
+            "height": 796
+        },
+        {
+            "type": "secondary",
+            "uri": "",
+            "resource_url": "",
+            "uri150": "",
+            "width": 236,
+            "height": 353
+        },
+        {
+            "type": "secondary",
+            "uri": "",
+            "resource_url": "",
+            "uri150": "",
+            "width": 475,
+            "height": 600
+        },
+        {
+            "type": "secondary",
+            "uri": "",
+            "resource_url": "",
+            "uri150": "",
+            "width": 600,
+            "height": 442
+        },
+        {
+            "type": "secondary",
+            "uri": "",
+            "resource_url": "",
+            "uri150": "",
+            "width": 600,
+            "height": 757
+        },
+        {
+            "type": "secondary",
+            "uri": "",
+            "resource_url": "",
+            "uri150": "",
+            "width": 229,
+            "height": 300
+        },
+        {
+            "type": "secondary",
+            "uri": "",
+            "resource_url": "",
+            "uri150": "",
+            "width": 600,
+            "height": 337
+        },
+        {
+            "type": "secondary",
+            "uri": "",
+            "resource_url": "",
+            "uri150": "",
+            "width": 600,
+            "height": 790
+        },
+        {
+            "type": "secondary",
+            "uri": "",
+            "resource_url": "",
+            "uri150": "",
+            "width": 600,
+            "height": 604
+        }
+    ],
+    "realname": "The Prodigy",
+    "profile": "British electronic group, founded in 1990. Their first release was \"What Evil Lurks\" EP (1991). Their early music was mostly rave/breakbeat, but has become more mainstream mixing in rock guitars with the third album \"The Fat Of The Land\" (1997).\r\n\r\nBand members:\r\n[a=Liam Howlett] - head of the group, keyboards, synthesizers, programming, laptop, computer, samples, sequencers, turntables, drum machines (1990-present)\r\n[a=Maxim] - MC, beatboxing, vocals (1991-present)\r\n\r\nFormer members:\r\n[a=Keith Flint] - dancing (1990-2019); lead vocals (1995-2019)\r\n[a=Leeroy Thornhill] - dancing (1990-2000); occasional live keyboards, synthesizers (1994-2000)\r\nSharky - dancing (1990-1991)\r\n\r\nThe original Prodigy line-up was Liam on keyboards and Leeroy, Keith and Sharky as dancers, formed in late 1990 (The Prodigy officially name the date October 5, 1990). Maxim was recruited at short notice to MC at their debut gig at Labrynth in Dalston, London in February 1991. Sharky left the group at Christmas 1990 after they got their record deal with XL as she didn't want to devote more time to the band. Their initial deal with XL was for 4 singles, with XL paying a £1500 advance prior to the first single.\r\nLiam Howlett briefly used the pseudonym [a=Earthbound (6)] (named after Liam's studio) for the original white-label summer releases of \"One Love\" (1993).\r\n[a=Leeroy Thornhill] left the band in 2000. \r\nKeith Flint died by suicide on 4 March 2019.",
+    "urls": [
+        "http://www.theprodigy.com",
+        "http://theprodigy.bandcamp.com",
+        "http://www.dailymotion.com/TheProdigy-Official",
+        "http://www.facebook.com/theprodigyofficial",
+        "http://www.flickr.com/photos/the-prodigy",
+        "http://www.imdb.com/name/nm1980220",
+        "http://instagram.com/theprodigyofficial",
+        "http://myspace.com/theprodigy",
+        "http://soundcloud.com/theprodigy",
+        "http://twitter.com/the_prodigy",
+        "http://vimeo.com/theprodigy",
+        "http://vk.com/theprodigy",
+        "http://en.wikipedia.org/wiki/The_Prodigy",
+        "http://www.whosampled.com/The-Prodigy",
+        "http://www.youtube.com/user/ProdigyChannel",
+        "http://www.youtube.com/user/TheProdigyVEVO"
+    ],
+    "namevariations": [
+        "Da Prodigy",
+        "PA Prodigy",
+        "Proddigy",
+        "Prodigi",
+        "Prodigy",
+        "Prodigy Remixed",
+        "Prodigy-97",
+        "Prodigy-98",
+        "The Prodhige",
+        "The Prodige",
+        "プロディジー",
+        "神童",
+        "超凡合唱團",
+        "超凡樂團"
+    ],
+    "aliases": [
+        {
+            "id": 1229070,
+            "name": "Earthbound (6)",
+            "resource_url": "https://api.discogs.com/artists/1229070"
+        }
+    ],
+    "members": [
+        {
+            "id": 34027,
+            "name": "Liam Howlett",
+            "resource_url": "https://api.discogs.com/artists/34027",
+            "active": true
+        },
+        {
+            "id": 118654,
+            "name": "Keith Flint",
+            "resource_url": "https://api.discogs.com/artists/118654",
+            "active": false
+        },
+        {
+            "id": 160004,
+            "name": "Leeroy Thornhill",
+            "resource_url": "https://api.discogs.com/artists/160004",
+            "active": false
+        },
+        {
+            "id": 625137,
+            "name": "Keith Palmer",
+            "resource_url": "https://api.discogs.com/artists/625137",
+            "active": true
+        }
+    ],
+    "data_quality": "Needs Vote"
+}
