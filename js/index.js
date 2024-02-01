@@ -94,6 +94,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
     }
 
+    // Lines 97 - 130, and the createPlaylist() function are bonus items
     function generatePlaylistDownloadButton() {
         const generateButton = document.createElement('button');
         generateButton.textContent = 'Download M3U file';
